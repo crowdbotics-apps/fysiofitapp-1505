@@ -1,0 +1,3 @@
+rootProject.name = 'fysiofitapp_1505'
+
+include ':app'
